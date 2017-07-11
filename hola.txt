@@ -1,3 +1,5 @@
 utilizando mercurial!
 python
 GNU/linux
+
+paracticando para el parcial en el dia de hoy
