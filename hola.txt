@@ -8,6 +8,12 @@ el colaborador probando para hacer un merge
 
 
 paracticando para el parcial en el dia de hoy
+<<<<<<< local
 
 
 otra prueba
+=======
+
+
+probando un merge nuevamente
+>>>>>>> other
